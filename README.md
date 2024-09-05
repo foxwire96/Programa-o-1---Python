@@ -1,7 +1,7 @@
 
 # Programação 1 - Python
 
-Exercicios em Python realizados durante a graduação de ADS no Senac-RJ
+Exercicios em Python realizados durante o primeiro módulo na graduação de ADS no Senac-RJ
 
 
 
