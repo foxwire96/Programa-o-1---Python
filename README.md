@@ -8,6 +8,7 @@ Exercicios em Python realizados durante o primeiro módulo na graduação de ADS
 ## Autores
 
 - [@Milena Daflon](https://github.com/foxwire96)
+- [@Matheus_Viana](https://github.com/mathrocks19)
 
 
 ## Aprendizado
